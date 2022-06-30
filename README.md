@@ -1,4 +1,5 @@
 #Blackwater Courthouse
+![Screenshot_69](https://user-images.githubusercontent.com/101003021/176583031-e0ca35b7-1555-4875-b353-7cba8f246470.png)
 
 The MLO is under the big building in Blackwater, you need a teleport to get there,
 
